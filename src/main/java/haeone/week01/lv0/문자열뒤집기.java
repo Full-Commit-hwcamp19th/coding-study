@@ -6,7 +6,6 @@ public class 문자열뒤집기 {
      * 날짜: 2025.08.05
      * 문제: https://school.programmers.co.kr/learn/courses/30/lessons/120830
      * */
-    class Solution {
         public String solution(String my_string, int s, int e) {
             String answer = "";
 
@@ -19,5 +18,4 @@ public class 문자열뒤집기 {
             answer += my_string.substring(e+1);
             return answer;
         }
-    }
 }
