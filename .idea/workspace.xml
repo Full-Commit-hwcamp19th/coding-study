@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e1772ba-0f60-4e73-b403-168d9bc3bef5" name="변경" comment="lv0. &#10;&#10;+1">
-      <change beforePath="$PROJECT_DIR$/src/main/java/haeone/week01/lv0/문자열뒤집기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/haeone/week01/lv0/문자열뒤집기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/haeone/week01/lv0/세균증식.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
