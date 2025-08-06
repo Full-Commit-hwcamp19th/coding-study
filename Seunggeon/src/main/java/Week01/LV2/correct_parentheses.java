@@ -41,6 +41,28 @@ public class correct_parentheses {
 
     public static boolean solution2(String s) {
         boolean answer = false;
+        /*
+         * 1. count 변수 선언
+         * 2. '(' 개수만큼 count ++
+         * 3. ')' 개수만큼 count --
+         * 4. count가 0이면 true
+         * 추가 조건: )가 먼저 들어오면 정상적으로 끝날 수 없음(")()(" 이런 경우도 count는 0임)
+        * */
+        int count = 0;
+        boolean flag = false;
+        for(int i =0; i < s.length(); i++){
+            if(s.charAt(i) == '('){
+                count++;
+            } else if(s.charAt(i) == ')'){
+                count--;
+            }
+            if(count < 0) {
+                flag = true;
+            }
+        }
+        if(count == 0 && flag == false){
+            answer = true;
+        }
 
         return answer;
     }
