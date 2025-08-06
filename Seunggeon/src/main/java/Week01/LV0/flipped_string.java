@@ -7,7 +7,7 @@ package Week01.LV0;
 
 import java.util.Scanner;
 
-public class flippedString {
+public class flipped_string {
     public static String solution(String my_string) {String answer = "";
         for(int i = my_string.length()-1; i >= 0; i--){
             answer += my_string.charAt(i);

@@ -6,7 +6,7 @@ package Week01.LV1;
 * */
 import java.util.Scanner;
 
-public class TakeOutTheDeliveryBox {
+public class take_out_the_delivery_box {
     public static int solution(int n, int w, int num) {
         int answer = 0;
 
