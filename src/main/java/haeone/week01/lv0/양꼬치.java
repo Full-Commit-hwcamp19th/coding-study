@@ -3,7 +3,7 @@ package haeone.week01.lv0;
 public class 양꼬치 {
     /*
      * 이름: 최혜원
-     * 날짜: 2025.08.05
+     * 날짜: 2025.08.06
      * 문제: https://school.programmers.co.kr/learn/courses/30/lessons/120830
     * */
    int solution(int n, int k) {
