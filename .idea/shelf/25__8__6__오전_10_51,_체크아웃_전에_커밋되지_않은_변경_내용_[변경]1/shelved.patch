@@ -1,0 +1,55 @@
+Index: src/main/java/haeone/week01/Lv0.java
+===================================================================
+diff --git a/src/main/java/haeone/week01/Lv0.java b/src/main/java/haeone/week01/Lv0.java
+deleted file mode 100644
+--- a/src/main/java/haeone/week01/Lv0.java	(revision 73fa4aaf049f82da928fa054c630b9c8ce203c3d)
++++ /dev/null	(revision 73fa4aaf049f82da928fa054c630b9c8ce203c3d)
+@@ -1,4 +0,0 @@
+-package haeone.week01;
+-
+-public class Lv0 {
+-}
+Index: src/main/java/haeone/week01/lv0/문자열뒤집기.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/haeone/week01/lv0/문자열뒤집기.java b/src/main/java/haeone/week01/lv0/문자열뒤집기.java
+new file mode 100644
+--- /dev/null	(date 1754444958929)
++++ b/src/main/java/haeone/week01/lv0/문자열뒤집기.java	(date 1754444958929)
+@@ -0,0 +1,4 @@
++package haeone.week01.lv0;
++
++public class 문자열뒤집기 {
++}
+Index: src/main/java/haeone/week01/lv0/양꼬치.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/haeone/week01/lv0/양꼬치.java b/src/main/java/haeone/week01/lv0/양꼬치.java
+new file mode 100644
+--- /dev/null	(date 1754445070646)
++++ b/src/main/java/haeone/week01/lv0/양꼬치.java	(date 1754445070646)
+@@ -0,0 +1,20 @@
++package haeone.week01.lv0;
++
++public class 양꼬치 {
++    /*
++     * 이름: 최혜원
++     * 날짜: 2025.08.05
++     * 문제: https://school.programmers.co.kr/learn/courses/30/lessons/120830
++    * */
++   int solution(int n, int k) {
++        int answer = 0;
++        int service = 0;
++        if(n >= 10){
++            service = n / 10 ;
++        }
++        k = k - service;
++        answer = n * 12000 + k * 2000;
++
++        return answer;
++    }
++}
