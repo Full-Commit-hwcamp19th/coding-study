@@ -1,4 +1,4 @@
-package LV0.problem1;
+package LV0.coffee_errand;
 
 /*
  * 이름: 변민철

@@ -1,4 +1,4 @@
-package LV0.problem1;
+package LV0.coffee_errand;
 
 public class CoffeeErrand {
     public static void main(String[] args) {
