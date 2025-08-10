@@ -1,4 +1,4 @@
-package Week01.LV2;
+package week01.lv2;
 /*
  * 이름: 이승건
  * 날짜: 25. 8. 6.
