@@ -1,4 +1,4 @@
-package LV0.addfraction;
+package Week02.LV0.addfraction;
 
 /*
  * 이름: 변민철
