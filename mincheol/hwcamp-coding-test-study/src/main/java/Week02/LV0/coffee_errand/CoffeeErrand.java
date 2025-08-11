@@ -1,4 +1,4 @@
-package LV0.coffee_errand;
+package Week02.LV0.coffee_errand;
 
 public class CoffeeErrand {
     public static void main(String[] args) {
