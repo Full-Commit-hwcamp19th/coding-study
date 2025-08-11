@@ -1,4 +1,4 @@
-package LV1.nonfinishedplayer;
+package Week02.LV1.nonfinishedplayer;
 
 public class NonFinPlayer {
     public static void main(String[] args) {
