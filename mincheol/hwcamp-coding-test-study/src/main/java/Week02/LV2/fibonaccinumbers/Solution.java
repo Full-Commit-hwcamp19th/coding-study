@@ -9,14 +9,16 @@ package Week02.LV2.fibonaccinumbers;
 public class Solution {
     public static int solution(int n) {
         int answer = 0;
-        int[] fib = new int[n+1];
-        fib[0] = 0;
-        fib[1] = 1;
+        int f_0 = 0;
+        int f_1 = 1;
+        int num = 0;
 
         for (int i = 2; i <= n; i++) {
-            fib[i] = fib[i - 1] + fib[i - 2];
+            num = (f_0 + f_1) % 1234567;
+            f_0 = f_1;
+            f_1 = num;
         }
-        answer = fib[n] % 1234567;
+        answer = num;
         return answer;
     }
 }
