@@ -86,11 +86,7 @@ public class DiceGame3 {
 
         String str;
         try (BufferedReader br = new BufferedReader(new InputStreamReader(System.in))) {
-            try {
-                str = br.readLine();
-            } catch (IOException e) {
-                throw new RuntimeException(e);
-            }
+            str = br.readLine();
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
