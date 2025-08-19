@@ -1,6 +1,11 @@
-package Week03.gap;
+package Week03.LV0.gap;
 
-import java.util.Arrays;
+/*
+ * 이름: 변민철
+ * 날짜: 25. 08. 19.
+ * 문제: https://school.programmers.co.kr/learn/courses/30/lessons/181868
+ * */
+
 import java.util.StringTokenizer;
 
 public class Solution {
