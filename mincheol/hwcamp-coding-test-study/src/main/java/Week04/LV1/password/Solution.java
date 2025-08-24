@@ -6,10 +6,6 @@ package Week04.LV1.password;
  * 문제: https://school.programmers.co.kr/learn/courses/30/lessons/155652
  * */
 
-import java.util.Arrays;
-import java.util.List;
-import java.util.stream.Collectors;
-
 public class Solution {
     public static String solution(String s, String skip, int index) {
 //        String answer = "";
