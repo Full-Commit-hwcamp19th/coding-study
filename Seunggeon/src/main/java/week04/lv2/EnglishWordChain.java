@@ -1,5 +1,11 @@
 package week04.lv2;
 
+/*
+ * 이름: 이승건
+ * 날짜: 25. 8. 23.
+ * 문제: https://school.programmers.co.kr/learn/courses/30/lessons/12981
+* */
+
 import java.io.*;
 import java.util.Arrays;
 import java.util.HashMap;

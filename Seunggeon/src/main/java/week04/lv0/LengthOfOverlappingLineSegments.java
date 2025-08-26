@@ -1,5 +1,11 @@
 package week04.lv0;
 
+/*
+ * 이름: 이승건
+ * 날짜: 25. 8. 26.
+ * 문제: https://school.programmers.co.kr/learn/courses/30/lessons/120876
+ * */
+
 import java.io.*;
 import java.util.*;
 

@@ -2,6 +2,12 @@ package week04.lv0;
 
 import java.io.*;
 
+/*
+ * 이름: 이승건
+ * 날짜: 25. 8. 20.
+ * 문제: https://school.programmers.co.kr/learn/courses/30/lessons/120848
+* */
+
 public class Factorial {
     private static int solution(int n) {
         int answer = 1;

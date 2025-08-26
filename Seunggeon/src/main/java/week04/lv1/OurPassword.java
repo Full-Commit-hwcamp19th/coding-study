@@ -1,5 +1,11 @@
 package week04.lv1;
 
+/*
+ * 이름: 이승건
+ * 날짜: 25. 8. 25.
+ * 문제: https://school.programmers.co.kr/learn/courses/30/lessons/155652
+* */
+
 import java.io.*;
 import java.util.Arrays;
 import java.util.StringTokenizer;
