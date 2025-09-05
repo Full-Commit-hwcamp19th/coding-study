@@ -4,7 +4,7 @@ package week03.lv0;
  * 이름: 이승건
  * 날짜: 25. 8. 18.
  * 문제: https://school.programmers.co.kr/learn/courses/30/lessons/120866
-* */
+ * */
 
 import java.io.*;
 
@@ -19,20 +19,22 @@ public class SafeZone {
         for (int i = 0; i < board.length; i++) {
             for (int j = 0; j < board[0].length; j++) {
                 for (int k = 0; k < 8; k++) {
-                    if(board[i][j] != 0) continue;
+                    if (board[i][j] != 0) continue;
                     int nx = j + dx[k];
                     int ny = i + dy[k];
-                    if(nx >= 0 && ny >= 0 && ny < board.length && nx < board[0].length) {
-                        if(board[ny][nx] == 1) board[i][j] = 2;
+                    if (nx >= 0 && ny >= 0 && ny < board.length && nx < board[0].length) {
+                        if (board[ny][nx] == 1) {
+                            board[i][j] = 2;
+                            break;
+                        }
                     }
                 }
             }
         }
-
-        for (int i = 0; i < board.length; i++) {
+        for ( int i = 0; i < board.length; i++) {
             for (int j = 0; j < board[0].length; j++) {
 //                System.out.print(board[i][j]);
-                if(board[i][j] == 0) answer++;
+                if (board[i][j] == 0) answer++;
             }
 //            System.out.println();
         }
@@ -40,21 +42,48 @@ public class SafeZone {
         return answer;
     }
 
+    private static int solution2(int[][] board) {
+        int answer = board.length * board[0].length;    // 전체 개수
+
+        int[] dx = {-1, 1, 0, 0, -1, -1, 1, 1};
+        int[] dy = {0, 0, -1, 1, -1, 1, -1, 1};
+
+        for (int i = 0; i < board.length; i++) {
+            for (int j = 0; j < board[0].length; j++) {
+                if (board[i][j] == 1) {
+                    answer--;
+                    for (int k = 0; k < 8; k++) {
+                        int nx = j + dx[k];
+                        int ny = i + dy[k];
+                        if (nx >= 0 && ny >= 0 && ny < board.length && nx < board[0].length) {
+                            if (board[ny][nx] == 0) {
+                                board[i][j] = 2;
+                                answer--;
+                            }
+                        }
+                    }
+                }
+            }
+
+        }
+        return answer;
+    }
+
     public static void main(String[] args) {
         String str;
         int[][] board;
-        try(BufferedReader br = new BufferedReader(new InputStreamReader(System.in))){
+        try (BufferedReader br = new BufferedReader(new InputStreamReader(System.in))) {
             str = br.readLine();
             int n = str.length();
             board = new int[n][n];
 
-            for(int i = 0; i < n; i++) {
+            for (int i = 0; i < n; i++) {
                 board[0][i] = str.charAt(i) - '0';
             }
 
-            for(int i = 1; i < n; i++) {
+            for (int i = 1; i < n; i++) {
                 str = br.readLine();
-                for(int j = 0; j < n; j++) {
+                for (int j = 0; j < n; j++) {
                     board[i][j] = str.charAt(j) - '0';
                 }
             }
@@ -63,7 +92,7 @@ public class SafeZone {
         }
         int answer = solution(board);
 
-        try(BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out))){
+        try (BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out))) {
             bw.write("정답: ");
             bw.write(Integer.valueOf(answer).toString());
             bw.flush();
