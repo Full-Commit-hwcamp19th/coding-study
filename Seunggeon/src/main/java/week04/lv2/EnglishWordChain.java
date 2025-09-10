@@ -7,9 +7,7 @@ package week04.lv2;
 * */
 
 import java.io.*;
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.Map;
+import java.util.*;
 
 public class EnglishWordChain {
 
@@ -44,6 +42,38 @@ public class EnglishWordChain {
                 break;
             } else {
                 wordMap.put(words[i], true);
+            }
+            lastChar = words[i].charAt(words[i].length() - 1);  // 단어의 마지막 문자 저장
+        }
+
+        return answer;
+    }
+
+    private static int[] solution2(int n, String[] words) {
+        int[] answer = {0, 0};
+        Set<String> wordSet = new HashSet<String>();    // 사용한 단어 기록
+                                                        // Map<String, Boolean> -> Set<String>으로 변경: 저장할 데이터의 양을 줄임
+        char lastChar = '\u0000';
+
+
+        for(int i = 0; i < words.length; i++) {
+            // 처음이 아닌 경우
+            if(lastChar != '\u0000') {
+                // 이전 단어의 끝 문자로 시작하는 것이 아니라면
+                if(words[i].charAt(0) != lastChar) {    //startsWith을 charAt로 꺼내와 비교하는 것으로 변경
+                    answer[0] = (i % n) + 1;
+                    answer[1] = (i / n) + 1;
+                    break;
+                }
+            }
+            //있으면 했던 단어를 다시 사용한거이므로 종료
+//            if(wordMap.getOrDefault(words[i], false)) {
+            if(wordSet.contains(words[i])) {
+                answer[0] = (i % n) + 1;
+                answer[1] = (i / n) + 1;
+                break;
+            } else {
+                wordSet.add(words[i]);
             }
             lastChar = words[i].charAt(words[i].length() - 1);  // 단어의 마지막 문자 저장
         }

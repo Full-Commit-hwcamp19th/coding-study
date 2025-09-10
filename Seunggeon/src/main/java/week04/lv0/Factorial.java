@@ -10,14 +10,14 @@ import java.io.*;
 
 public class Factorial {
     private static int solution(int n) {
-        int answer = 1;
+        int num = 1;
 
         int factorial = 1;
         while(factorial <= n) {
-            answer++;
-            factorial = factorial * answer;
+            num++;
+            factorial = factorial * num;
         }
-        return answer - 1;
+        return num - 1;
     }
 
     public static void main(String[] args) {

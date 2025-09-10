@@ -8,6 +8,7 @@ package week04.lv1;
 
 import java.io.*;
 import java.util.Arrays;
+import java.util.HashSet;
 import java.util.StringTokenizer;
 
 public class OurPassword {
@@ -21,6 +22,28 @@ public class OurPassword {
                 if(cArr[i] > 'z') cArr[i] = (char) (cArr[i] - ('z' - 'a') - 1);
 
                 if(skip.contains(cArr[i] + "")) {
+                    j--;
+                }
+            }
+        }
+        s =  new String(cArr);
+        return s;
+    }
+
+    private static String solution2(String s, String skip, int index) {
+        char[] cArr = s.toCharArray();
+        HashSet<Character> skipSet = new HashSet<>();
+
+        for(int i = 0; i < skip.length(); i++) {
+            skipSet.add(skip.charAt(i));
+        }
+
+        for(int i = 0; i < s.length(); i++) {
+            for(int j = 0; j < index; j++) {
+//                cArr[i] = (char)(((cArr[i] + 1) % 26) + 'a');     // 논리적으로 명확
+                cArr[i]++; if(cArr[i] > 'z') cArr[i] = 'a';         // 빠른 이해
+
+                if(skipSet.contains(cArr[i])) { // String.contains:문자열 길이만큼 반복 -> HashSet.contains:해시 값을 이용한 조회 => 조회 성능 업 O(n) -> O(1)
                     j--;
                 }
             }
