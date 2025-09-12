@@ -6,7 +6,6 @@
 <br>
 
 ### 🌱 스터디원 소개
-<br>
 
 | <img src="https://github.com/user-attachments/assets/a671e73a-699a-4dc3-b663-fa2fde6c27d8" width="80" alt="남우경"/> | <img src="https://github.com/user-attachments/assets/4117d8b8-64af-4d61-b700-fd0b598c9239" width="80" alt="변민철"/> | <img src="https://github.com/user-attachments/assets/e5dc9df6-ddbd-4156-bbef-1fbdec34ff7e" width="80" alt="이승건"/> | <img src="https://github.com/user-attachments/assets/9aa2e1a9-5216-4d1b-a8fd-51edf77a793a" width="80" alt="최혜원"/> |
 |:---:|:---:|:---:|:---:|
@@ -44,4 +43,5 @@
 | 1주차 | 8/6 | Ｏ | Ｏ | Ｏ | Ｏ |   |
 | 2주차 | 8/13 | Ｏ | Ｏ | Ｏ | X |   |
 | 3/4주차 | 8/26 | Ｏ | Ｏ | Ｏ | Ｏ |   |
-| 5주차 | 9/3 |   |   |   |   |   |
+| 5주차 | 9/3 | Ｏ | Ｏ | Ｏ | Ｏ |   |
+| 6주차 | 9/10 | Ｏ | Ｏ | Ｏ | Ｏ |   |
