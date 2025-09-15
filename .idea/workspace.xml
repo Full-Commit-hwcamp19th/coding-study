@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f84bbb83-8f66-4ff6-8d70-c8d2257f0969" name="변경" comment="week06">
+      <change beforePath="$PROJECT_DIR$/Seunggeon/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seunggeon/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seunggeon/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seunggeon/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seunggeon/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seunggeon/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seunggeon/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seunggeon/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seunggeon/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seunggeon/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seunggeon/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seunggeon/src/main/java/baekjoon/P1193.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seunggeon/src/main/java/week01/lv0/flipped_string.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seunggeon/src/main/java/week01/lv1/take_out_the_delivery_box.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seunggeon/src/main/java/week01/lv2/correct_parentheses.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seunggeon/src/main/java/week01/lv2/create_minimum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seunggeon/src/main/java/week02/lv0/addition_of_fractions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seunggeon/src/main/java/week02/lv0/coffee_errands.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seunggeon/src/main/java/week02/lv1/athletes_who_failed_to_finish.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seunggeon/src/main/java/week02/lv2/fibonacci_numbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seunggeon/src/main/java/week02/lv2/maze_escape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seunggeon/src/main/java/week03/lv0/DiceGame3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seunggeon/src/main/java/week03/lv0/SafeZone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seunggeon/src/main/java/week03/lv0/SeparateWithSpaces2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seunggeon/src/main/java/week03/lv1/DataAnalysis.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seunggeon/src/main/java/week03/lv1/FoodFightContest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seunggeon/src/main/java/week03/lv2/garb.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seunggeon/src/main/java/week04/lv0/Factorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seunggeon/src/main/java/week04/lv0/LengthOfOverlappingLineSegments.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seunggeon/src/main/java/week04/lv1/OurPassword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seunggeon/src/main/java/week04/lv2/EnglishWordChain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seunggeon/src/main/java/week05/lv0/APersonTallerThanMusk.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seunggeon/src/main/java/week05/lv1/PickTwoAndAddThem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seunggeon/src/main/java/week05/lv1/Ponketmon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seunggeon/src/main/java/week05/lv2/MaximumAndMinimumValues.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seunggeon/src/main/java/week05/lv2/PairOfIntegersBetweenTwoCircles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seunggeon/src/main/java/week06/lv1/KNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seunggeon/src/main/java/week06/lv2/LifeBoat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seunggeon/src/main/java/week06/lv2/PhoneNumberList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seunggeon/src/main/java/week06/lv3/FurthestNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/build_BACKUP_1423.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/build_BASE_1423.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/build_LOCAL_1423.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/build_REMOTE_1423.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/src/main/java/Week01/LV0/adddigits/AddingDigits.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/src/main/java/Week01/LV0/adddigits/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/src/main/java/Week01/LV0/bacterialgrowth/BacterialGrowth.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/src/main/java/Week01/LV0/bacterialgrowth/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/src/main/java/Week01/LV0/distributepizza/PizzaDistributing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/src/main/java/Week01/LV0/distributepizza/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/src/main/java/Week01/LV0/letter/Letter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/src/main/java/Week01/LV0/letter/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/src/main/java/Week01/LV0/makemaxvalue/MakingMaxValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/src/main/java/Week01/LV0/makemaxvalue/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/src/main/java/Week02/LV0/addfraction/AddFraction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/src/main/java/Week02/LV0/addfraction/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/src/main/java/Week02/LV0/coffee_errand/CoffeeErrand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/src/main/java/Week02/LV0/coffee_errand/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/src/main/java/Week02/LV1/nonfinishedplayer/NonFinPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/src/main/java/Week02/LV1/nonfinishedplayer/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/src/main/java/Week02/LV2/fibonaccinumbers/FibonacciNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/src/main/java/Week02/LV2/fibonaccinumbers/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/src/main/java/Week03/LV0/dicegame/DiceGame3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/src/main/java/Week03/LV0/dicegame/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/src/main/java/Week03/LV0/gap/DiffGap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/src/main/java/Week03/LV0/gap/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/src/main/java/Week03/LV1/dataanalysis/DataAnalysis.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/src/main/java/Week03/LV1/dataanalysis/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/src/main/java/Week03/LV2/clothes/Clothes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/src/main/java/Week03/LV2/clothes/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/src/main/java/Week04/LV0/factorial/Factorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/src/main/java/Week04/LV0/factorial/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/src/main/java/Week04/LV0/linelength/LineLength.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/src/main/java/Week04/LV0/linelength/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/src/main/java/Week04/LV1/password/Password.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/src/main/java/Week04/LV1/password/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/src/main/java/Week04/LV2/wordchain/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/src/main/java/Week04/LV2/wordchain/WordChain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/src/main/java/Week05/LV0/safetyzone/SafetyZone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/src/main/java/Week05/LV0/safetyzone/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/src/main/java/Week05/LV0/tallerperson/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/src/main/java/Week05/LV0/tallerperson/TallMan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/src/main/java/Week05/LV1/phoneketmon/PhoneketMon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/src/main/java/Week05/LV1/phoneketmon/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/src/main/java/Week05/LV1/pickandadd/PickAdd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/src/main/java/Week05/LV1/pickandadd/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/src/main/java/Week05/LV2/maxandmin/MaxMIn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/src/main/java/Week05/LV2/maxandmin/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/src/main/java/Week06/LV1/kthnumber/KthNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/src/main/java/Week06/LV1/kthnumber/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/src/main/java/Week06/LV2/lifeboat/LifeBoat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/src/main/java/Week06/LV2/lifeboat/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/src/main/java/Week06/LV2/phonebook/PhoneBook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/src/main/java/Week06/LV2/phonebook/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/src/main/java/Week06/LV3/vertex/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mincheol/hwcamp-coding-test-study/src/main/java/Week06/LV3/vertex/Vertex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wookyoung/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wookyoung/Week02/LV0/분수의 덧셈.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wookyoung/Week02/LV0/커피심부름.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wookyoung/Week02/LV1/완주하지 못한 선수.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wookyoung/Week02/LV2/피보나치수.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wookyoung/Week03/LV0/공백으로 구분하기 2.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wookyoung/Week03/LV0/주사위 게임 3.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wookyoung/Week03/LV1/데이터 분석.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wookyoung/Week03/LV2/의상.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wookyoung/Week04/LV0/겹치는 선분의 길이.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wookyoung/Week04/LV0/팩토리얼.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wookyoung/Week04/LV1/둘만의암호.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wookyoung/Week04/LV2/영어 끝말잇기.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wookyoung/Week05/LV0/머쓱이보다 키큰 사람.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wookyoung/Week05/LV0/안전지대.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wookyoung/Week05/LV1/두개 뽑아서 더하기.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wookyoung/Week05/LV1/폰켓몬.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wookyoung/Week05/LV2/최댓값과 최솟값.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wookyoung/Week06/LV1/K번째수.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wookyoung/Week06/LV2/구명보트.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wookyoung/Week06/LV2/전화번호 목록.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wookyoung/Week06/LV3/가장 먼 노드.ipynb" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "haenin"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Full-Commit-hwcamp19th/coding-study",
+    "accountId": "78d49b73-16b5-4308-9853-2a94b64ff0f1"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="32jyA4Dn1tVvz9RWRm5SJdiHRFY" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "git-widget-placeholder": "haeone",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/haeone/Desktop/haeone/haeone",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/haeone" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.23892.409" />
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-IU-252.23892.409" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="f84bbb83-8f66-4ff6-8d70-c8d2257f0969" name="변경" comment="" />
+      <created>1757948130585</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757948130585</updated>
+      <workItem from="1757948131598" duration="1764000" />
+    </task>
+    <task id="LOCAL-00001" summary="week06">
+      <option name="closed" value="true" />
+      <created>1757948394993</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1757948394993</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="week06" />
+    <option name="LAST_COMMIT_MESSAGE" value="week06" />
+  </component>
+</project>
