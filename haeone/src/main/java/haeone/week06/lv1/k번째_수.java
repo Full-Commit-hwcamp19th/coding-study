@@ -25,4 +25,5 @@ public class k번째_수 {
 
         return resultArray;
     }
+
 }
