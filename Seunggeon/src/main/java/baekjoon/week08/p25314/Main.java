@@ -1,4 +1,4 @@
-package baekjoon.week10.p25314;
+package baekjoon.week08.p25314;
 
 /*
  * 이름: 이승건

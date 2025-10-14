@@ -1,10 +1,4 @@
-package baekjoon.week10.p11021;
-
-/*
- * 이름: 이승건
- * 날짜: 25. 10. 2.
- * 문제: https://www.acmicpc.net/problem/11021
-* */
+package baekjoon.week08.p11022;
 
 import java.io.*;
 import java.util.StringTokenizer;
@@ -27,6 +21,10 @@ public class Main {
                 sb.append("Case #");
                 sb.append(i+1);
                 sb.append(": ");
+                sb.append(a);
+                sb.append(" + ");
+                sb.append(b);
+                sb.append(" = ");
                 sb.append(a+b);
 
 
