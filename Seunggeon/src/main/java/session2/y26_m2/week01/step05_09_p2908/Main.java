@@ -1,4 +1,4 @@
-package session2.y26_m2.week01.step05_09p2908;
+package session2.y26_m2.week01.step05_09_p2908;
 
 import java.io.BufferedReader;
 import java.io.IOException;
