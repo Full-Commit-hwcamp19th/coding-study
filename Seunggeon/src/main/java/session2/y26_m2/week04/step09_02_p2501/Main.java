@@ -1,4 +1,4 @@
-package session2.y26_m2.week04.step09_002_p2501;
+package session2.y26_m2.week04.step09_02_p2501;
 
 import java.io.BufferedReader;
 import java.io.IOException;
