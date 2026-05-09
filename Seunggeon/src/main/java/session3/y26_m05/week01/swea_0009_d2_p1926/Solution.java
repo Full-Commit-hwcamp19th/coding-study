@@ -1,4 +1,4 @@
-package session3.y26_m05.week01.swea_0009_de_p1926;
+package session3.y26_m05.week01.swea_0009_d2_p1926;
 
 import java.io.FileInputStream;
 import java.util.Scanner;
